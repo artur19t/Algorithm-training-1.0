@@ -26,7 +26,7 @@ https://yandex.ru/yaintern/algorithm-training_2021
 │   │   ├── main.cpp
 │   │   └── program.exe
 │   ...
-│   └── 03. task-name/
+│   └── 10. task-name/
 │       ├── main.cpp
 │       └── program.exe
 ├── Lesson 2/
@@ -38,5 +38,5 @@ https://yandex.ru/yaintern/algorithm-training_2021
 ## Как запустить
 
 ```bash
-clang++ main.cpp -o program
+clang++ main.cpp -o program.exe
 ./program
