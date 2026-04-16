@@ -39,12 +39,5 @@ int main()
         }
     }
 
-    if (p1 == -1)
-    {
-        std::cout << "-1 -1\n";
-    }
-    else
-    {
-        std::cout << p1 << " " << n1 << "\n";
-    }
+    std::cout << p1 << " " << n1 << "\n";
 }
